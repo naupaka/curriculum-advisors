@@ -11,6 +11,10 @@
 
 ### Agenda
 
+* Updates from maintainer team
+* Report-out from GloBIAS workshop
+
+### Notes
 * Updates from maintainer team (Ulf)
     * Marco Dalla Vecchia joined as a new maintainer
     * maintainer co-working session planned June 5
@@ -22,15 +26,11 @@
       * Josh: Even feedback on where it's being given? Unsure
       * Josh: Crazier idea of using lessons pages as the canonical slide that we use in our talks.
 
-* Report-out from GloBIAS workshop
-    * be proactive about structure/cohesiveness of the lesson program?
-    * GloBIAS follow up meeting on Learning Outcomes
+* Quick review of the GloBIAS review meeting (Josh)
+    - GloBIAS follow up meeting on Learning Outcomes
         * several people from DC engaged
-    * Collect links/references to other efforts GloBIAS, Incubator, ...?
+    - Collect links/references to other efforts GloBIAS, Incubator, ...?
         * Josh: e.g. https://neubias.github.io/training-resources/ (predecessor of GloBIAS)
-        
-### Notes
-  * Quick review of the GloBIAS review meeting
     - Question: any clear plan on a URL for the lesson?
     - Feedback to GloBIAS: perhaps consider where if at all this goes, e.g. under https://datacarpentry.org/lessons/#image-processing?
     - Any other communities that might want to be involved at the same time?
@@ -39,4 +39,3 @@
 
 * Date for next meeting: [August 27, 2025, 20:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CAC+Meeting+DC+Image+Processing&iso=20250827T20&p1=1440&ah=1)
   * Proposal to move up by an hour
-  * **Question for Marianne**
